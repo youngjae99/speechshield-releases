@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>SpeechShield</title>
+    <link>https://speechshield.app/appcast.xml</link>
+    <language>ko</language>
+    <item>
+      <title>0.3.0 beta</title>
+      <pubDate>Fri, 25 Sep 2026 15:08:31 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/youngjae99/speechshield-releases/releases/download/v0.3.0/SpeechShield-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="+8tlGU8G5C6xSWvzPy/fXu99TQ4DytlMXJ+8NCAZLbukoC92u02okX4YV8n8e881tkJeulPEarb8Pb9Cd6vsDA==" length="4181676"/>
+    </item>
+  </channel>
+</rss>
