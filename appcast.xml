@@ -5,6 +5,15 @@
     <link>https://speechshield.app/appcast.xml</link>
     <language>ko</language>
     <item>
+      <title>0.4.1 beta</title>
+      <pubDate>Tue, 29 Sep 2026 09:52:51 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://github.com/youngjae99/speechshield-releases/releases/download/v0.4.1/SpeechShield-0.4.1.dmg" type="application/octet-stream" sparkle:edSignature="S0AiHKj/pcSCjIgM21H5n0azAInyPmv7JRpymbaPPvMwAXzIYJJdltNEbhEyy46YLkBYSDuu/ZEm6zRpfVhfDw==" length="4026321"/>
+    </item>
+    <item>
       <title>0.4.0 beta</title>
       <pubDate>Tue, 29 Sep 2026 05:25:32 +0000</pubDate>
       <sparkle:version>3</sparkle:version>
