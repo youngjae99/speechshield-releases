@@ -5,6 +5,19 @@
     <link>https://speechshield.app/appcast.xml</link>
     <language>ko</language>
     <item>
+      <title>0.5.0 beta</title>
+      <pubDate>Thu, 01 Oct 2026 04:51:31 +0000</pubDate>
+      <description xml:lang="ko"><![CDATA[<h3>새 기능</h3><ul><li>계정 메뉴에 남은 사용량 막대 표시</li><li>대화 말풍선 답변·대화 번역, 듣기 버튼 통합, 오버레이·메인 창 전환</li><li>플랜 실시간 번역을 Soniox 스트림 번역으로 전환</li><li>릴리스 노트를 앱 업데이트 창과 사이트 변경 기록에 표시</li><li>친구 초대와 초대 보상, 체험을 Mac당 한 번으로</li><li>앱을 쓰려면 로그인 필수 (Free·이 Mac·내 AI 포함)</li><li>메인 사이드바 하단에 계정 버튼과 계정 메뉴 추가</li><li>플랜 받아쓰기를 OpenAI에서 Soniox로 전환</li><li>send issue reports and suggestions from the app to Slack #feedback</li></ul><h3>개선</h3><ul><li>플랜 Soniox 임시 키를 스트림 1개·30분으로 제한</li><li>번역 화면 잘림 수정과 메모·기록·초대 시트·계정 메뉴 UI 정리</li><li>세션 창에 사용 모델 표시, 컨트롤을 아이콘·Liquid Glass로 정리</li></ul>]]></description>
+      <sparkle:fullReleaseNotesLink xml:lang="ko">https://speechshield.app/changelog#v0.5.0</sparkle:fullReleaseNotesLink>
+      <description xml:lang="en"><![CDATA[<h3>New</h3><ul><li>계정 메뉴에 남은 사용량 막대 표시</li><li>대화 말풍선 답변·대화 번역, 듣기 버튼 통합, 오버레이·메인 창 전환</li><li>플랜 실시간 번역을 Soniox 스트림 번역으로 전환</li><li>릴리스 노트를 앱 업데이트 창과 사이트 변경 기록에 표시</li><li>친구 초대와 초대 보상, 체험을 Mac당 한 번으로</li><li>앱을 쓰려면 로그인 필수 (Free·이 Mac·내 AI 포함)</li><li>메인 사이드바 하단에 계정 버튼과 계정 메뉴 추가</li><li>플랜 받아쓰기를 OpenAI에서 Soniox로 전환</li><li>send issue reports and suggestions from the app to Slack #feedback</li></ul><h3>Improvements</h3><ul><li>플랜 Soniox 임시 키를 스트림 1개·30분으로 제한</li><li>번역 화면 잘림 수정과 메모·기록·초대 시트·계정 메뉴 UI 정리</li><li>세션 창에 사용 모델 표시, 컨트롤을 아이콘·Liquid Glass로 정리</li></ul>]]></description>
+      <sparkle:fullReleaseNotesLink xml:lang="en">https://speechshield.app/en/changelog#v0.5.0</sparkle:fullReleaseNotesLink>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://github.com/youngjae99/speechshield-releases/releases/download/v0.5.0/SpeechShield-0.5.0.dmg" type="application/octet-stream" sparkle:edSignature="a3pTatp8MNt8W/tKURfv62vIluqgpOSl4a1tF64vZ0ZjGuSESp4SBdfjcbEpRSwN2zWIxfD7FHI6znuK5DSJDg==" length="4345381"/>
+    </item>
+    <item>
       <title>0.4.1 beta</title>
       <pubDate>Tue, 29 Sep 2026 09:52:51 +0000</pubDate>
       <description xml:lang="ko"><![CDATA[<h3>개선</h3><ul><li>웹사이트에서 결제한 플랜이 다시 로그인하지 않아도 앱에 바로 반영됩니다.</li><li>설정 → About의 문제 신고와 릴리스 내역 링크가 제대로 열립니다.</li><li>설정 → About에서 앱에 포함된 오픈소스 라이선스를 볼 수 있습니다.</li></ul>]]></description>
